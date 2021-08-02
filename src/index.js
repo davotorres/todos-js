@@ -1,6 +1,6 @@
 import './styles.css';
 
-import {Todo, TodoList} from './classes';
+import {TodoList} from './classes';
 import { crearTodoHTML } from './js/componentes'; 
 
 
